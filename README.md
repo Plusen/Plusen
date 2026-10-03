@@ -1,11 +1,12 @@
-# Jiaen Li
+# Jiaen Li (이가은)
 
 **Assistant Professor · Division of International Trade**  
 College of Business, Kwangwoon University
 
 International Trade · Global Value Chains · Foreign Direct Investment · Text Mining
 
-[Email](mailto:jiaenlee@kw.ac.kr) · [GitHub](https://github.com/Plusen)
+<a href="mailto:jiaenlee@kw.ac.kr"><img src="https://img.shields.io/badge/Email-jiaenlee%40kw.ac.kr-245FC8?style=flat-square&logo=gmail&logoColor=white" alt="Email: jiaenlee@kw.ac.kr"></a>
+<a href="https://github.com/Plusen"><img src="https://img.shields.io/badge/GitHub-Plusen-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub: Plusen"></a>
 
 ---
 
@@ -109,12 +110,12 @@ Publications are listed by year, with the most recent first. Korean-language art
 
 ## Contact
 
-**Jiaen Li**  
+**Jiaen Li (이가은)**  
 Division of International Trade, College of Business  
 Kwangwoon University
 
-**Email:** [jiaenlee@kw.ac.kr](mailto:jiaenlee@kw.ac.kr)  
-**GitHub:** [Plusen](https://github.com/Plusen)
+<a href="mailto:jiaenlee@kw.ac.kr"><img src="https://img.shields.io/badge/Email-jiaenlee%40kw.ac.kr-245FC8?style=flat-square&logo=gmail&logoColor=white" alt="Email: jiaenlee@kw.ac.kr"></a>
+<a href="https://github.com/Plusen"><img src="https://img.shields.io/badge/GitHub-Plusen-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub: Plusen"></a>
 
 ---
 
