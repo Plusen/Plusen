@@ -12,11 +12,10 @@ International Trade · Global Value Chains · Foreign Direct Investment · Text 
 
 ## About
 
-I am an Assistant Professor in the Division of International Trade at Kwangwoon University. I received my Ph.D. in Economics and M.S. in Business Administration from Kyung Hee University.
-
-My research focuses on international trade, global value chains, and foreign direct investment. I examine how international economic integration shapes trade outcomes, labor markets, and income distribution, as well as how diplomatic engagement influences cross-border investment. My recent work also investigates the relationships among export diversification, renewable energy transition, and carbon emissions.
-
-A complementary line of research applies text mining and machine learning to policy documents, news, and online reviews. Through interdisciplinary collaboration, I study review helpfulness, sentiment expression, fake review detection, and recommendation systems. My research combines empirical economic analysis with computational methods to develop evidence relevant to policy and business decision-making.
+I am an Assistant Professor of International Trade at Kwangwoon University and hold a Ph.D. in Economics from Kyung Hee University. 
+My research focuses on international trade, global value chains, foreign direct investment, and e-commerce (including review helpfulness). 
+My current interests include how AI and robotics reshape trade patterns, industrial structure, and global value chains. 
+I use econometric analysis, text mining, and machine learning in empirical research.
 
 ## Research Interests
 
