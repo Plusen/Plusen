@@ -30,7 +30,7 @@ I also study e-commerce and online reviews, including review helpfulness, sentim
 - **Text Mining and Online Review Analytics**  
   Policy and news analysis, review helpfulness, sentiment analysis, fake review detection, and recommendation systems
 
-**Research Tools:** Stata, Python, R, and SPSS
+**Skill:** Stata, Python, R, and SPSS
 
 ## Experience
 
@@ -111,8 +111,6 @@ I also study e-commerce and online reviews, including review helpfulness, sentim
 
 ## Research Projects
 
-- **Analysis of a Nationwide Contingent Valuation Survey for the Feasibility Assessment of a Science Academy**  
-  Korea Foundation for the Advancement of Science and Creativity, 2024–2025
 - **Economic Impact and Economic Valuation of World Youth Day 2027**  
   World Youth Day 2027 Organizing Committee, 2024–2025
 - **Global Trends in the Water Sector and Strategic Responses for K-water**  
