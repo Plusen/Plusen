@@ -14,7 +14,7 @@ International Trade · Global Value Chains · Foreign Direct Investment · Text 
 
 I am an Assistant Professor of International Trade at Kwangwoon University and hold a Ph.D. in Economics from Kyung Hee University. 
 My research focuses on international trade, global value chains, foreign direct investment, and e-commerce (including review helpfulness). 
-My current interests include how AI and robotics reshape trade patterns, industrial structure, and global value chains. 
+My current interests include how AI robot industry reshape trade patterns, industrial structure, and global value chains. 
 I use econometric analysis, text mining, and machine learning in empirical research.
 
 ## Research Interests
