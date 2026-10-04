@@ -3,8 +3,6 @@
 **Assistant Professor · Division of International Trade**  
 College of Business, Kwangwoon University
 
-International Trade · Global Value Chains · Foreign Direct Investment · AI-Robot industry · Text Mining
-
 <a href="https://plusen.github.io/"><img src="https://img.shields.io/badge/Homepage-plusen.github.io-8E3A50?style=flat-square&logo=githubpages&logoColor=white" alt="Homepage"></a>
 <a href="mailto:jiaenlee@kw.ac.kr"><img src="https://img.shields.io/badge/Email-jiaenlee%40kw.ac.kr-245FC8?style=flat-square&logo=gmail&logoColor=white" alt="Email: jiaenlee@kw.ac.kr"></a>
 <a href="https://scholar.google.com/citations?user=WDr-7SIAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
@@ -21,14 +19,7 @@ I also study e-commerce and online reviews, including review helpfulness, sentim
 
 ## Research Interests
 
-- **International Trade and Global Value Chains**  
-  GVC participation, export value added, human capital, labor markets, and income inequality
-- **Foreign Direct Investment and Economic Diplomacy**  
-  Diplomatic engagement, international investment, and bilateral economic cooperation
-- **Trade and Environmental Sustainability**  
-  Export diversification, renewable energy transition, carbon emissions, and ESG
-- **Text Mining and Online Review Analytics**  
-  Policy and news analysis, review helpfulness, sentiment analysis, fake review detection, and recommendation systems
+International Trade · Global Value Chains · Foreign Direct Investment · AI-Robot industry · Text Mining
 
 **Skill:** Stata, Python, R, and SPSS
 
