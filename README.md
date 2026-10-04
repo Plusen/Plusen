@@ -37,7 +37,7 @@ I also study e-commerce and online reviews, including review helpfulness, sentim
 | Period | Position |
 | :--- | :--- |
 | Mar 2022 – Present | Assistant Professor, Division of International Trade, College of Business, Kwangwoon University |
-| Mar 2020 – Feb 2022 | Visiting Professor, Department of International Trade, College of Politics and Economics, Kyung Hee University |
+| Mar 2020 – Feb 2022 | Visiting Professor, Department of International Trade, Kyung Hee University |
 | Sep 2016 – Feb 2022 | Researcher, Myanmar Research Center, Kyung Hee University |
 
 ## Education
