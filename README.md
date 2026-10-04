@@ -3,7 +3,7 @@
 **Assistant Professor · Division of International Trade**  
 College of Business, Kwangwoon University
 
-International Trade · Global Value Chains · Foreign Direct Investment · Text Mining
+International Trade · Global Value Chains · Foreign Direct Investment · AI-Robot industry · Text Mining
 
 <a href="https://plusen.github.io/"><img src="https://img.shields.io/badge/Homepage-plusen.github.io-8E3A50?style=flat-square&logo=githubpages&logoColor=white" alt="Homepage"></a>
 <a href="mailto:jiaenlee@kw.ac.kr"><img src="https://img.shields.io/badge/Email-jiaenlee%40kw.ac.kr-245FC8?style=flat-square&logo=gmail&logoColor=white" alt="Email: jiaenlee@kw.ac.kr"></a>
