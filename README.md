@@ -61,7 +61,7 @@ International Trade · Global Value Chains · Foreign Direct Investment · AI-Ro
 
 **2024**
 
-- **Li, J.**, & Choi, Y. (2024). Diplomatic engagement and economic influence: The interplay of Chinese FDI and high-level visits. *East Asian Economic Review, 28(4), 391–419*.
+- **Li, J.**, & Choi, Y. (2024). Diplomatic engagement and economic influence: The interplay of Chinese FDI and high-level visits. *East Asian Economic Review, 28(4), 391–419*. `ESCI`
 - 인령 · 최영준 · **이가은** (2024). 무역기술장벽(TBT)이 한국수출에 미치는 영향: 인도-태평양 경제 프레임워크를 중심으로. *무역학회지, 49(2), 45–60*. `KCI`
 
 **2023**
