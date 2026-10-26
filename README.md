@@ -43,9 +43,12 @@ International Trade · Global Value Chains · Foreign Direct Investment · Indus
 
 ### Journal Articles
 
+**2027**
+
+- Zhao, Y., & **Li, J.** (2027). [Does China’s regional development policy moderate the relationship between foreign direct investment and CO2 emissions?](https://doi.org/10.1504/gber.2027.10081273) *Global Business and Economics Review, 1*(1) (in press). `ESCI`
+
 **2026**
 
-- Zhao, Y., & **Li, J.** (2026). Does China's regional development policy moderate the relationship between foreign direct investment and CO₂ emissions? *Global Business and Economics Review, forthcoming*.
 - 조청이 · **이가은** (2026). 디지털 무역장벽이 한국의 서비스 수입에 미치는 영향. *생산성연구: 국제융합학술지, 40(5), 61–79*. `KCI`
 - **이가은** · 홍의 (2026). 수출 품목 다변화는 아세안 지역의 탄소 배출 저감에 기여하는가? *국제상학, 41(2), 19–35*. `KCI`
 - 홍의 · **이가은** (2026). 이란전쟁 뉴스데이터 분석을 통한 국내 공급망 위기 분석. *국제경영리뷰, 30(2), 51–65*. `KCI`
