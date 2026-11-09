@@ -15,7 +15,7 @@ College of Business, Kwangwoon University
 
 I am an Assistant Professor in the Division of International Trade, College of Business, Kwangwoon University. I received my Ph.D. in Economics from Kyung Hee University. My research examines international trade, global value chains (GVCs), and foreign direct investment (FDI), with a regional focus on China, East Asia, and ASEAN.
 
-I also study e-commerce and online reviews, including review helpfulness, sentiment, and fake review detection. My current interest is how the industry robot adoption reshape trade patterns, industrial structure, and global value chains. In my empirical work I combine econometric analysis with text mining and machine learning.
+I also study e-commerce and online reviews, including review helpfulness, sentiment, and fake review detection. My current interest is how the industrial robots reshape trade patterns, industrial structure, and global value chains. In my empirical work I combine econometric analysis with text mining and machine learning.
 
 ## Research Interests
 
