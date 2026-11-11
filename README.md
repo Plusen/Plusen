@@ -19,11 +19,7 @@ I also study e-commerce and online reviews, including review helpfulness, sentim
 
 ## Research Interests
 
-![Research at a glance. Industrial robots and their effects on international trade, global value chains, and industrial structure. Current research: the effects of industrial robots on export performance, export quality, and industrial upgrading.](assets/research-interests.svg)
-
-International Trade · Global Value Chains · Foreign Direct Investment · Industrial Robots · Text Mining
-
-**Current Research:** How industrial robots affect export performance, export quality, and industrial upgrading.
+International Trade · Global Value Chains · Foreign Direct Investment · Industry Robot · Text Mining
 
 **Skill:** Stata, Python, R, and SPSS
 
