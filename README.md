@@ -19,6 +19,8 @@ I also study e-commerce and online reviews, including review helpfulness, sentim
 
 ## Research Interests
 
+![Research at a glance: International Trade, Global Value Chains, Foreign Direct Investment, and Industry Robot, with Text Mining as a research method.](assets/research-interests.svg)
+
 International Trade · Global Value Chains · Foreign Direct Investment · Industry Robot · Text Mining
 
 **Skill:** Stata, Python, R, and SPSS
